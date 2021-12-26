@@ -71,7 +71,7 @@ nav > a:hover {background-color: var(--cor3);
 
 main {background-color: white;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     min-width: 300px;
     max-width: 1000px;
     padding: 20px;
